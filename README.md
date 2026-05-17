@@ -45,3 +45,4 @@ A lightweight AI-powered programming assistant built with Flutter. Code Buddy he
 
 ![chat1](assets/screenshots/chat1.jpeg) 
  ![chat2](assets/screenshots/chat2.jpeg) 
+
