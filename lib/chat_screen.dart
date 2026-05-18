@@ -19,7 +19,7 @@ class _SimpleChatScreenState extends State<SimpleChatScreen> {
 
   late Box chatBox;
 
-  final String apiKey = "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";
+  final String apiKey = "OPENROUTER_API_KEY";
 
   String? selectedMode;
   bool showModeSelector = true;
